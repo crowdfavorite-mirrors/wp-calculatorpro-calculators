@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: John Gadbois <jgadbois@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: Each calculator should have an entry for the title, each calculator field (and drop down option if applicable) and answer label.
+#: Calculate Button
+msgid "Calculate!"
+msgstr "Calcular!"
+
+#: V02 MAX CALCULATOR
+msgid "VO2 Max Calculator"
+msgstr "Calculadora VO2 Máximo"
+
+msgid "Gender"
+msgstr "Sexo"
+
+msgid "Age (in years)"
+msgstr "Edad (en años)"
+
+msgid "Male"
+msgstr "Hombre"
+
+msgid "Female"
+msgstr "Mujer"
+
+msgid "Weight (in lbs)"
+msgstr "Peso (en libras)"
+
+msgid "Time to Walk 1 Mile (in seconds)"
+msgstr "Tiempo en caminar 1 Milla (en segundos)"
+
+msgid "Heart Rate (at end of 1 mile)"
+msgstr "Pulsaciones del Corazón (al final de 1 milla)"
+
+#: Answer
+msgid "VO2 Max"
+msgstr "VO2 Máximo"
+
+#: BMI CALCULATOR
+msgid "BMI Calculator"
+msgstr "Calculadora I.M.C."
+
+msgid "Height (in inches or cm)"
+msgstr "Altura (en pulgadas o cm)"
+
+msgid "Weight (in pounds or kg)"
+msgstr "Peso (en libras o kg)"
+
+msgid "Use Metric?"
+msgstr "Uso Métrico"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "No"
+msgstr "No"
+
+msgid "Your BMI is"
+msgstr "Tú I.M.C. es"
+

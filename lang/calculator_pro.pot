@@ -1,0 +1,3974 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Calculator Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-04 14:58-0500\n"
+"PO-Revision-Date: 2011-08-04 14:59-0500\n"
+"Last-Translator: John Gadbois <jgadbois@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../calcStrings.php:2
+msgid "Calculate!"
+msgstr ""
+
+#: ../calcStrings.php:4
+msgid "Tile Calculator"
+msgstr ""
+
+#: ../calcStrings.php:5
+msgid "Total Square Footage"
+msgstr ""
+
+#: ../calcStrings.php:6
+msgid "Size of Tile (inches)"
+msgstr ""
+
+#: ../calcStrings.php:7
+msgid "You will need"
+msgstr ""
+
+#: ../calcStrings.php:8
+msgid "tiles"
+msgstr ""
+
+#: ../calcStrings.php:11
+msgid "Miles to Kilometers Calculator"
+msgstr ""
+
+#: ../calcStrings.php:12
+msgid "Enter Miles"
+msgstr ""
+
+#: ../calcStrings.php:13
+msgid "Kilometers"
+msgstr ""
+
+#: ../calcStrings.php:16
+msgid "Kilometers to Miles Calculator"
+msgstr ""
+
+#: ../calcStrings.php:17
+msgid "Enter Kilometers"
+msgstr ""
+
+#: ../calcStrings.php:18
+msgid "miles"
+msgstr ""
+
+#: ../calcStrings.php:21
+msgid "Pounds to Kilograms Calculator"
+msgstr ""
+
+#: ../calcStrings.php:22
+msgid "Enter pounds"
+msgstr ""
+
+#: ../calcStrings.php:23
+msgid "Kilograms"
+msgstr ""
+
+#: ../calcStrings.php:26
+msgid "Kilograms to Pounds Calculator"
+msgstr ""
+
+#: ../calcStrings.php:27
+msgid "Pounds"
+msgstr ""
+
+#: ../calcStrings.php:30
+msgid "Mortgage Points Calculator"
+msgstr ""
+
+#: ../calcStrings.php:31
+msgid "Loan Amount"
+msgstr ""
+
+#: ../calcStrings.php:32
+msgid "Number of Points"
+msgstr ""
+
+#: ../calcStrings.php:33
+msgid "Your mortgage points will cost"
+msgstr ""
+
+#: ../calcStrings.php:36
+msgid "One Rep Max Weight Lifting Calculator"
+msgstr ""
+
+#: ../calcStrings.php:37
+msgid "Weight Lifted (lbs)"
+msgstr ""
+
+#: ../calcStrings.php:38
+msgid "Reps"
+msgstr ""
+
+#: ../calcStrings.php:39
+msgid "Your one rep max is"
+msgstr ""
+
+#: ../calcStrings.php:40
+msgid "pounds"
+msgstr ""
+
+#: ../calcStrings.php:43
+msgid "Circle Area Calculator"
+msgstr ""
+
+#: ../calcStrings.php:44
+msgid "Radius"
+msgstr ""
+
+#: ../calcStrings.php:45
+msgid "The area of the circle is"
+msgstr ""
+
+#: ../calcStrings.php:48
+msgid "Net Worth Calculator"
+msgstr ""
+
+#: ../calcStrings.php:49
+msgid "Stocks"
+msgstr ""
+
+#: ../calcStrings.php:50
+msgid "Bonds"
+msgstr ""
+
+#: ../calcStrings.php:51
+msgid "Other Investments"
+msgstr ""
+
+#: ../calcStrings.php:52
+msgid "Cash (CD\\'s/Money Market/etc.)"
+msgstr ""
+
+#: ../calcStrings.php:53
+msgid "Real Estate"
+msgstr ""
+
+#: ../calcStrings.php:54
+msgid "Variable Annuities"
+msgstr ""
+
+#: ../calcStrings.php:55
+msgid "Value of Primary Home"
+msgstr ""
+
+#: ../calcStrings.php:56
+msgid "Value of Additional Homes"
+msgstr ""
+
+#: ../calcStrings.php:57
+msgid "Art/Collectibles/Jewelry/Furnishings"
+msgstr ""
+
+#: ../calcStrings.php:58
+msgid "Other Assets"
+msgstr ""
+
+#: ../calcStrings.php:59
+msgid "Mortgages"
+msgstr ""
+
+#: ../calcStrings.php:60
+msgid "Home Equity Loans"
+msgstr ""
+
+#: ../calcStrings.php:61
+msgid "Student Loans"
+msgstr ""
+
+#: ../calcStrings.php:62
+msgid "Credit Card Debt"
+msgstr ""
+
+#: ../calcStrings.php:63
+msgid "Other Liabilities"
+msgstr ""
+
+#: ../calcStrings.php:64
+msgid "Your net worth is"
+msgstr ""
+
+#: ../calcStrings.php:67
+msgid "VO2 Max Calculator"
+msgstr ""
+
+#: ../calcStrings.php:68
+msgid "Gender"
+msgstr ""
+
+#: ../calcStrings.php:69
+msgid "Male"
+msgstr ""
+
+#: ../calcStrings.php:70
+msgid "Female"
+msgstr ""
+
+#: ../calcStrings.php:71
+msgid "Age (in years)"
+msgstr ""
+
+#: ../calcStrings.php:72
+msgid "Weight (in lbs)"
+msgstr ""
+
+#: ../calcStrings.php:73
+msgid "Time to Walk 1 Mile (in seconds)"
+msgstr ""
+
+#: ../calcStrings.php:74
+msgid "Heart Rate (at end of 1 mile)"
+msgstr ""
+
+#: ../calcStrings.php:75
+msgid "VO2 Max"
+msgstr ""
+
+#: ../calcStrings.php:78
+msgid "Operating Profit Percentage Calculator"
+msgstr ""
+
+#: ../calcStrings.php:79
+msgid "Sales"
+msgstr ""
+
+#: ../calcStrings.php:80
+msgid "Operating Income"
+msgstr ""
+
+#: ../calcStrings.php:81
+msgid "Operating Profit Percentage"
+msgstr ""
+
+#: ../calcStrings.php:84
+msgid "Gross Profit Margin Calculator"
+msgstr ""
+
+#: ../calcStrings.php:85
+msgid "Sales (Total Revenue)"
+msgstr ""
+
+#: ../calcStrings.php:86
+msgid "Cost of Goods Sold (COGS)"
+msgstr ""
+
+#: ../calcStrings.php:87
+msgid "Gross Profit Margin"
+msgstr ""
+
+#: ../calcStrings.php:90
+msgid "Return On Assets Calculator"
+msgstr ""
+
+#: ../calcStrings.php:91
+msgid "Net Income"
+msgstr ""
+
+#: ../calcStrings.php:92
+msgid "Total Assets"
+msgstr ""
+
+#: ../calcStrings.php:93
+msgid "Return on Assets"
+msgstr ""
+
+#: ../calcStrings.php:96
+msgid "Debt to Assets Ratio Calculator"
+msgstr ""
+
+#: ../calcStrings.php:97
+msgid "Total Debt"
+msgstr ""
+
+#: ../calcStrings.php:98
+msgid "Debts To Assets"
+msgstr ""
+
+#: ../calcStrings.php:101
+msgid "Quick Ratio Calculator"
+msgstr ""
+
+#: ../calcStrings.php:102
+msgid "Current Assets"
+msgstr ""
+
+#: ../calcStrings.php:103
+msgid "Current Inventory"
+msgstr ""
+
+#: ../calcStrings.php:104
+msgid "Current Liabilities"
+msgstr ""
+
+#: ../calcStrings.php:105
+msgid "Quick Ratio"
+msgstr ""
+
+#: ../calcStrings.php:108
+msgid "Current Ratio Calculator"
+msgstr ""
+
+#: ../calcStrings.php:109
+msgid "Current Ratio"
+msgstr ""
+
+#: ../calcStrings.php:112
+msgid "Debt to Equity Ratio Calculator"
+msgstr ""
+
+#: ../calcStrings.php:113
+msgid "Total Equity"
+msgstr ""
+
+#: ../calcStrings.php:114
+msgid "Debt to Equity"
+msgstr ""
+
+#: ../calcStrings.php:117
+msgid "Square Area Calculator"
+msgstr ""
+
+#: ../calcStrings.php:118
+msgid "Size of one side of square"
+msgstr ""
+
+#: ../calcStrings.php:119
+msgid "Square Area"
+msgstr ""
+
+#: ../calcStrings.php:122
+msgid "Rectangle Area Calculator"
+msgstr ""
+
+#: ../calcStrings.php:123
+msgid "Length"
+msgstr ""
+
+#: ../calcStrings.php:124
+msgid "Width"
+msgstr ""
+
+#: ../calcStrings.php:125
+msgid "Rectangle Area"
+msgstr ""
+
+#: ../calcStrings.php:128
+msgid "Parallelogram Area Calculator"
+msgstr ""
+
+#: ../calcStrings.php:129
+msgid "Height"
+msgstr ""
+
+#: ../calcStrings.php:130
+msgid "Parallelogram Area"
+msgstr ""
+
+#: ../calcStrings.php:133
+msgid "Trapezoid Area Calculator"
+msgstr ""
+
+#: ../calcStrings.php:134
+msgid "Length of Top"
+msgstr ""
+
+#: ../calcStrings.php:135
+msgid "Length of Bottom"
+msgstr ""
+
+#: ../calcStrings.php:136
+msgid "Trapezoid Area"
+msgstr ""
+
+#: ../calcStrings.php:139
+msgid "Triangle Area Calculator"
+msgstr ""
+
+#: ../calcStrings.php:140
+msgid "Length of Base"
+msgstr ""
+
+#: ../calcStrings.php:141
+msgid "Triangle Area"
+msgstr ""
+
+#: ../calcStrings.php:144
+msgid "Equilateral Triangle Area Calculator"
+msgstr ""
+
+#: ../calcStrings.php:145
+msgid "Length of side"
+msgstr ""
+
+#: ../calcStrings.php:146
+msgid "Equilateral Triangle Area"
+msgstr ""
+
+#: ../calcStrings.php:149
+msgid "Cube Volume Calculator"
+msgstr ""
+
+#: ../calcStrings.php:150
+msgid "Side Length"
+msgstr ""
+
+#: ../calcStrings.php:151
+msgid "Cube Volume"
+msgstr ""
+
+#: ../calcStrings.php:154
+msgid "Rectangular Prism Volume Calculator"
+msgstr ""
+
+#: ../calcStrings.php:155
+msgid "Rectangular Prism Volume"
+msgstr ""
+
+#: ../calcStrings.php:158
+msgid "Cylinder Volume Calculator"
+msgstr ""
+
+#: ../calcStrings.php:159
+msgid "Cylinder Volume"
+msgstr ""
+
+#: ../calcStrings.php:162
+msgid "Pyramid Volume Calculator"
+msgstr ""
+
+#: ../calcStrings.php:163
+msgid "Base Area"
+msgstr ""
+
+#: ../calcStrings.php:164
+msgid "Perpendicular Height"
+msgstr ""
+
+#: ../calcStrings.php:165
+msgid "Pyramid Volume"
+msgstr ""
+
+#: ../calcStrings.php:168
+msgid "Cone Volume Calculator"
+msgstr ""
+
+#: ../calcStrings.php:169
+msgid "Cone Volume"
+msgstr ""
+
+#: ../calcStrings.php:172
+msgid "Sphere Volume Calculator"
+msgstr ""
+
+#: ../calcStrings.php:173
+msgid "Sphere Volume"
+msgstr ""
+
+#: ../calcStrings.php:176
+msgid "Surface Area of a Cube Calculator"
+msgstr ""
+
+#: ../calcStrings.php:177
+msgid "Size of one side"
+msgstr ""
+
+#: ../calcStrings.php:178
+msgid "Cube Surface Area"
+msgstr ""
+
+#: ../calcStrings.php:181
+msgid "Surface Area of a Rectangular Prism Calculator"
+msgstr ""
+
+#: ../calcStrings.php:182
+msgid "Side 1 Length"
+msgstr ""
+
+#: ../calcStrings.php:183
+msgid "Side 2 Length"
+msgstr ""
+
+#: ../calcStrings.php:184
+msgid "Side 3 Length"
+msgstr ""
+
+#: ../calcStrings.php:185
+msgid "Rectangular Prism Surface Area"
+msgstr ""
+
+#: ../calcStrings.php:188
+msgid "Surface Area of a Sphere Calculator"
+msgstr ""
+
+#: ../calcStrings.php:189
+msgid "Sphere Surface Area"
+msgstr ""
+
+#: ../calcStrings.php:192
+msgid "Surface Area of a Cylinder Calculator"
+msgstr ""
+
+#: ../calcStrings.php:193
+msgid "Cylinder Surface Area"
+msgstr ""
+
+#: ../calcStrings.php:196
+msgid "Age Calculator"
+msgstr ""
+
+#: ../calcStrings.php:197
+msgid "Month"
+msgstr ""
+
+#: ../calcStrings.php:198
+msgid "January"
+msgstr ""
+
+#: ../calcStrings.php:199
+msgid "February"
+msgstr ""
+
+#: ../calcStrings.php:200
+msgid "March"
+msgstr ""
+
+#: ../calcStrings.php:201
+msgid "April"
+msgstr ""
+
+#: ../calcStrings.php:202
+msgid "May"
+msgstr ""
+
+#: ../calcStrings.php:203
+msgid "June"
+msgstr ""
+
+#: ../calcStrings.php:204
+msgid "July"
+msgstr ""
+
+#: ../calcStrings.php:205
+msgid "August"
+msgstr ""
+
+#: ../calcStrings.php:206
+msgid "September"
+msgstr ""
+
+#: ../calcStrings.php:207
+msgid "October"
+msgstr ""
+
+#: ../calcStrings.php:208
+msgid "November"
+msgstr ""
+
+#: ../calcStrings.php:209
+msgid "December"
+msgstr ""
+
+#: ../calcStrings.php:210
+msgid "Day"
+msgstr ""
+
+#: ../calcStrings.php:211
+msgid "29;30"
+msgstr ""
+
+#: ../calcStrings.php:212
+msgid "Year"
+msgstr ""
+
+#: ../calcStrings.php:215
+msgid "TV Viewing Distance Calculator"
+msgstr ""
+
+#: ../calcStrings.php:216
+msgid "Enter Diagonal TV Screen Size"
+msgstr ""
+
+#: ../calcStrings.php:217
+msgid "Minimum Distance from TV Needed"
+msgstr ""
+
+#: ../calcStrings.php:218
+msgid "feet"
+msgstr ""
+
+#: ../calcStrings.php:221
+msgid "Inches to Centimeters Calculator"
+msgstr ""
+
+#: ../calcStrings.php:222
+msgid "Inches"
+msgstr ""
+
+#: ../calcStrings.php:223
+msgid "Centimeters"
+msgstr ""
+
+#: ../calcStrings.php:226
+msgid "Centimeters to Inches Calculator"
+msgstr ""
+
+#: ../calcStrings.php:229
+msgid "Child Height Calculator"
+msgstr ""
+
+#: ../calcStrings.php:230
+msgid "Height of Father (in inches)"
+msgstr ""
+
+#: ../calcStrings.php:231
+msgid "Height of Mother (in inches)"
+msgstr ""
+
+#: ../calcStrings.php:232
+msgid "The child\\'s predicted height is"
+msgstr ""
+
+#: ../calcStrings.php:233
+msgid "inches"
+msgstr ""
+
+#: ../calcStrings.php:236
+msgid "Loan to Value Ratio Calculator"
+msgstr ""
+
+#: ../calcStrings.php:237
+msgid "Mortgage Amount"
+msgstr ""
+
+#: ../calcStrings.php:238
+msgid "Property Value"
+msgstr ""
+
+#: ../calcStrings.php:239
+msgid "Loan To Value"
+msgstr ""
+
+#: ../calcStrings.php:242
+msgid "Future Value Calculator"
+msgstr ""
+
+#: ../calcStrings.php:243
+msgid "Present Value"
+msgstr ""
+
+#: ../calcStrings.php:244
+msgid "Interest Rate (% per period)"
+msgstr ""
+
+#: ../calcStrings.php:245
+msgid "Number of Periods"
+msgstr ""
+
+#: ../calcStrings.php:246
+msgid "Future Value"
+msgstr ""
+
+#: ../calcStrings.php:249
+msgid "Present Value Calculator"
+msgstr ""
+
+#: ../calcStrings.php:250
+msgid "INTEREST RATE (% PER PERIOD)"
+msgstr ""
+
+#: ../calcStrings.php:251
+msgid "NUMBER OF PERIODS"
+msgstr ""
+
+#: ../calcStrings.php:254
+msgid "Annual Effective Interest Rate Calculator"
+msgstr ""
+
+#: ../calcStrings.php:255
+msgid "Annual Interest Rate (%)"
+msgstr ""
+
+#: ../calcStrings.php:256
+msgid "Number of Compounding Periods"
+msgstr ""
+
+#: ../calcStrings.php:257
+msgid "Annual Effective Interest Rate"
+msgstr ""
+
+#: ../calcStrings.php:260
+msgid "Payday Loan Calculator"
+msgstr ""
+
+#: ../calcStrings.php:261
+msgid "Payday Loan Amount"
+msgstr ""
+
+#: ../calcStrings.php:262
+msgid "Payday Loan Term (in days)"
+msgstr ""
+
+#: ../calcStrings.php:263
+msgid "Payday Loan Fee"
+msgstr ""
+
+#: ../calcStrings.php:264
+msgid "Your Payday Loan APR is"
+msgstr ""
+
+#: ../calcStrings.php:267
+msgid "Acre Calculator"
+msgstr ""
+
+#: ../calcStrings.php:268
+msgid "Land Width (in feet)"
+msgstr ""
+
+#: ../calcStrings.php:269
+msgid "Land Length (in feet)"
+msgstr ""
+
+#: ../calcStrings.php:270
+msgid "Acres"
+msgstr ""
+
+#: ../calcStrings.php:273
+msgid "Feet to Centimeters Calculator"
+msgstr ""
+
+#: ../calcStrings.php:274
+msgid "Feet"
+msgstr ""
+
+#: ../calcStrings.php:277
+msgid "Cubic Feet Calculator"
+msgstr ""
+
+#: ../calcStrings.php:278
+msgid "Cubic Centimeters (Fill in just one field)"
+msgstr ""
+
+#: ../calcStrings.php:279
+msgid "Cubic Inches"
+msgstr ""
+
+#: ../calcStrings.php:280
+msgid "Cubic Yards"
+msgstr ""
+
+#: ../calcStrings.php:281
+msgid "Cubic Feet"
+msgstr ""
+
+#: ../calcStrings.php:284
+msgid "Cups to Tablespoons Calculator"
+msgstr ""
+
+#: ../calcStrings.php:285
+msgid "Cups"
+msgstr ""
+
+#: ../calcStrings.php:286
+msgid "Tablespoons"
+msgstr ""
+
+#: ../calcStrings.php:289
+msgid "Cups to Teaspoons Calculator"
+msgstr ""
+
+#: ../calcStrings.php:290
+msgid "Teaspoons"
+msgstr ""
+
+#: ../calcStrings.php:293
+msgid "Centimeters to Feet Calculator"
+msgstr ""
+
+#: ../calcStrings.php:296
+msgid "Feet to Meters Calculator"
+msgstr ""
+
+#: ../calcStrings.php:297
+msgid "Meters"
+msgstr ""
+
+#: ../calcStrings.php:300
+msgid "Mortgage Payment Calculator"
+msgstr ""
+
+#: ../calcStrings.php:301
+msgid "Mortgage Payback Period (in years)"
+msgstr ""
+
+#: ../calcStrings.php:302
+msgid "Interest Rate (%)"
+msgstr ""
+
+#: ../calcStrings.php:303
+msgid "Mortgage Payment"
+msgstr ""
+
+#: ../calcStrings.php:306
+msgid "Loan Payment Calculator"
+msgstr ""
+
+#: ../calcStrings.php:307
+msgid "Loan Duration (in months)"
+msgstr ""
+
+#: ../calcStrings.php:308
+msgid "Interest Rate"
+msgstr ""
+
+#: ../calcStrings.php:309
+msgid "Loan Payment"
+msgstr ""
+
+#: ../calcStrings.php:312
+msgid "Car Loan Payment Calculator"
+msgstr ""
+
+#: ../calcStrings.php:313
+msgid "Car Loan Amount"
+msgstr ""
+
+#: ../calcStrings.php:314
+msgid "Car Loan Period (in months)"
+msgstr ""
+
+#: ../calcStrings.php:315
+msgid "Car Payment"
+msgstr ""
+
+#: ../calcStrings.php:318
+msgid "Credit Card Payment Calculator"
+msgstr ""
+
+#: ../calcStrings.php:319
+msgid "Credit Card Balance"
+msgstr ""
+
+#: ../calcStrings.php:320
+msgid "Number of Months to Pay Off"
+msgstr ""
+
+#: ../calcStrings.php:321
+msgid "Credit Card Payment"
+msgstr ""
+
+#: ../calcStrings.php:324
+msgid "Credit Card Payoff Calculator"
+msgstr ""
+
+#: ../calcStrings.php:325
+msgid "Monthly Payment"
+msgstr ""
+
+#: ../calcStrings.php:326
+msgid "Months to Payoff"
+msgstr ""
+
+#: ../calcStrings.php:329
+msgid "Horsepower Calculator"
+msgstr ""
+
+#: ../calcStrings.php:330
+msgid "Total Vehicle/Driver Weight (lbs)"
+msgstr ""
+
+#: ../calcStrings.php:331
+msgid "MPH after quarter mile (\"Trap Speed\")"
+msgstr ""
+
+#: ../calcStrings.php:332
+msgid "Horsepower"
+msgstr ""
+
+#: ../calcStrings.php:335
+msgid "Tire Diameter Calculator"
+msgstr ""
+
+#: ../calcStrings.php:336
+msgid "Tire Width (mm)"
+msgstr ""
+
+#: ../calcStrings.php:337
+msgid "Aspect Ratio (Tire Series)"
+msgstr ""
+
+#: ../calcStrings.php:338
+msgid "Wheel Size (inches)"
+msgstr ""
+
+#: ../calcStrings.php:339
+msgid "Tire Diameter"
+msgstr ""
+
+#: ../calcStrings.php:342
+msgid "Monthly Payment Calculator"
+msgstr ""
+
+#: ../calcStrings.php:343
+msgid "Months to Pay Loan Off"
+msgstr ""
+
+#: ../calcStrings.php:344
+msgid "Annual Interest Rate"
+msgstr ""
+
+#: ../calcStrings.php:345
+msgid "Your monthly payment is"
+msgstr ""
+
+#: ../calcStrings.php:348
+msgid "Tip Calculator"
+msgstr ""
+
+#: ../calcStrings.php:349
+msgid "Bill Amount"
+msgstr ""
+
+#: ../calcStrings.php:350
+msgid "Tip Percentage (%)"
+msgstr ""
+
+#: ../calcStrings.php:351
+msgid "Split how many ways?"
+msgstr ""
+
+#: ../calcStrings.php:352
+msgid "Tip Per Person"
+msgstr ""
+
+#: ../calcStrings.php:355
+msgid "Interest Only Mortgage Calculator"
+msgstr ""
+
+#: ../calcStrings.php:356
+msgid "Your interest only mortgage payment is"
+msgstr ""
+
+#: ../calcStrings.php:359
+msgid "Sales Tax Calculator"
+msgstr ""
+
+#: ../calcStrings.php:360
+msgid "Purchase Amount"
+msgstr ""
+
+#: ../calcStrings.php:361
+msgid "Sales Tax Percentage (%)"
+msgstr ""
+
+#: ../calcStrings.php:364
+msgid "Salary Calculator"
+msgstr ""
+
+#: ../calcStrings.php:365
+msgid "Current Salary"
+msgstr ""
+
+#: ../calcStrings.php:366
+msgid "Expected salary increase per year (%)"
+msgstr ""
+
+#: ../calcStrings.php:367
+msgid "Number of years"
+msgstr ""
+
+#: ../calcStrings.php:370
+msgid "Due Date Calculator"
+msgstr ""
+
+#: ../calcStrings.php:371
+msgid "Date of Last Period"
+msgstr ""
+
+#: ../calcStrings.php:372
+msgid "Your due date is around"
+msgstr ""
+
+#: ../calcStrings.php:375
+msgid "Car Purchase Calculator"
+msgstr ""
+
+#: ../calcStrings.php:376
+msgid "Gross Annual Income"
+msgstr ""
+
+#: ../calcStrings.php:377
+msgid "The maximum amount you should spend on a car is"
+msgstr ""
+
+#: ../calcStrings.php:380
+msgid "TV Screen Size Calculator"
+msgstr ""
+
+#: ../calcStrings.php:381
+msgid "Viewing Distance From TV (in feet)"
+msgstr ""
+
+#: ../calcStrings.php:382
+msgid "Optimal TV Screen Size"
+msgstr ""
+
+#: ../calcStrings.php:385
+msgid "Unix Timestamp Calculator"
+msgstr ""
+
+#: ../calcStrings.php:386
+msgid "Unix Timestamp"
+msgstr ""
+
+#: ../calcStrings.php:389
+msgid "Fraction Calculator"
+msgstr ""
+
+#: ../calcStrings.php:390
+msgid "Numerator 1"
+msgstr ""
+
+#: ../calcStrings.php:391
+msgid "Denominator 1"
+msgstr ""
+
+#: ../calcStrings.php:392
+msgid "Operation"
+msgstr ""
+
+#: ../calcStrings.php:393
+msgid "+"
+msgstr ""
+
+#: ../calcStrings.php:394
+msgid "-"
+msgstr ""
+
+#: ../calcStrings.php:395
+msgid "*"
+msgstr ""
+
+#: ../calcStrings.php:396
+msgid "/"
+msgstr ""
+
+#: ../calcStrings.php:397
+msgid "Numerator 2"
+msgstr ""
+
+#: ../calcStrings.php:398
+msgid "Denominator 2"
+msgstr ""
+
+#: ../calcStrings.php:399
+msgid "Resulting Fraction"
+msgstr ""
+
+#: ../calcStrings.php:402
+msgid "Pregnancy Calculator"
+msgstr ""
+
+#: ../calcStrings.php:405
+msgid "Square Root Calculator"
+msgstr ""
+
+#: ../calcStrings.php:406
+msgid "Number to find square root of"
+msgstr ""
+
+#: ../calcStrings.php:407
+msgid "Square Root"
+msgstr ""
+
+#: ../calcStrings.php:410
+msgid "Cube Root Calculator"
+msgstr ""
+
+#: ../calcStrings.php:411
+msgid "The number to find the cube root of"
+msgstr ""
+
+#: ../calcStrings.php:412
+msgid "Cube Root"
+msgstr ""
+
+#: ../calcStrings.php:415
+msgid "Exponent Calculator"
+msgstr ""
+
+#: ../calcStrings.php:416
+msgid "Number"
+msgstr ""
+
+#: ../calcStrings.php:417
+msgid "Exponent to Raise to"
+msgstr ""
+
+#: ../calcStrings.php:418
+msgid "Answer"
+msgstr ""
+
+#: ../calcStrings.php:421
+msgid "Reducing Fractions Calculator"
+msgstr ""
+
+#: ../calcStrings.php:422
+msgid "Numerator"
+msgstr ""
+
+#: ../calcStrings.php:423
+msgid "Denominator"
+msgstr ""
+
+#: ../calcStrings.php:424
+msgid "Reduced Fraction"
+msgstr ""
+
+#: ../calcStrings.php:427
+msgid "Present Value Annuity Calculator"
+msgstr ""
+
+#: ../calcStrings.php:428
+msgid "Payment per period"
+msgstr ""
+
+#: ../calcStrings.php:429
+msgid "Annuity Interest per period(%)"
+msgstr ""
+
+#: ../calcStrings.php:430
+msgid "Number of Payment Periods"
+msgstr ""
+
+#: ../calcStrings.php:431
+msgid "Present Value of Your Annuity"
+msgstr ""
+
+#: ../calcStrings.php:434
+msgid "Average Speed Calculator"
+msgstr ""
+
+#: ../calcStrings.php:435
+msgid "Travel Time (HH:MM)"
+msgstr ""
+
+#: ../calcStrings.php:436
+msgid "Miles to Destination"
+msgstr ""
+
+#: ../calcStrings.php:437
+msgid "Average Speed"
+msgstr ""
+
+#: ../calcStrings.php:438
+msgid "MPH"
+msgstr ""
+
+#: ../calcStrings.php:441
+msgid "MPG Calculator"
+msgstr ""
+
+#: ../calcStrings.php:442
+msgid "Odometer at previous fill-up"
+msgstr ""
+
+#: ../calcStrings.php:443
+msgid "Odometer at current fill-up"
+msgstr ""
+
+#: ../calcStrings.php:444
+msgid "Gallons of gas purchased"
+msgstr ""
+
+#: ../calcStrings.php:445
+msgid "MPG"
+msgstr ""
+
+#: ../calcStrings.php:448
+msgid "Days Between Dates Calculator"
+msgstr ""
+
+#: ../calcStrings.php:449
+msgid "Date 1"
+msgstr ""
+
+#: ../calcStrings.php:450
+msgid "Date 2"
+msgstr ""
+
+#: ../calcStrings.php:451
+msgid "Days Between"
+msgstr ""
+
+#: ../calcStrings.php:454
+msgid "Day of the Week Calculator"
+msgstr ""
+
+#: ../calcStrings.php:455
+msgid "Date"
+msgstr ""
+
+#: ../calcStrings.php:456
+msgid "Day of the Week"
+msgstr ""
+
+#: ../calcStrings.php:459
+msgid "Day of the Year Calculator"
+msgstr ""
+
+#: ../calcStrings.php:460
+msgid "Day of the Year"
+msgstr ""
+
+#: ../calcStrings.php:463
+msgid "Days From Now Calculator"
+msgstr ""
+
+#: ../calcStrings.php:464
+msgid "Days From Now"
+msgstr ""
+
+#: ../calcStrings.php:467
+msgid "Daily Calorie Calculator"
+msgstr ""
+
+#: ../calcStrings.php:468
+msgid "Weight (lbs or kgs)"
+msgstr ""
+
+#: ../calcStrings.php:469
+msgid "Height (inches or cm)"
+msgstr ""
+
+#: ../calcStrings.php:470
+msgid "Age"
+msgstr ""
+
+#: ../calcStrings.php:471
+msgid "Activity Level"
+msgstr ""
+
+#: ../calcStrings.php:472
+msgid "Sedentary"
+msgstr ""
+
+#: ../calcStrings.php:473
+msgid "Exercise 1-3x Per Week"
+msgstr ""
+
+#: ../calcStrings.php:474
+msgid "Exercise 3-5x Per Week"
+msgstr ""
+
+#: ../calcStrings.php:475
+msgid "Exercise 6-7x Per Week"
+msgstr ""
+
+#: ../calcStrings.php:476
+msgid "Exercise 2x per day"
+msgstr ""
+
+#: ../calcStrings.php:477
+msgid "Use Metric?"
+msgstr ""
+
+#: ../calcStrings.php:478
+msgid "Yes"
+msgstr ""
+
+#: ../calcStrings.php:479
+msgid "No"
+msgstr ""
+
+#: ../calcStrings.php:480
+msgid "Daily Calories Needed"
+msgstr ""
+
+#: ../calcStrings.php:483
+msgid "BMR Calculator"
+msgstr ""
+
+#: ../calcStrings.php:484
+msgid "Weight (lbs)"
+msgstr ""
+
+#: ../calcStrings.php:485
+msgid "Height (inches)"
+msgstr ""
+
+#: ../calcStrings.php:486
+msgid "Sex"
+msgstr ""
+
+#: ../calcStrings.php:487
+msgid "BMR"
+msgstr ""
+
+#: ../calcStrings.php:490
+msgid "Average Calculator"
+msgstr ""
+
+#: ../calcStrings.php:491
+msgid "Numbers to Average (comma separated)"
+msgstr ""
+
+#: ../calcStrings.php:492
+msgid "Average"
+msgstr ""
+
+#: ../calcStrings.php:495
+msgid "Standard Deviation Calculator"
+msgstr ""
+
+#: ../calcStrings.php:496
+msgid "Numbers to calculate standard deviation for (comma separated)"
+msgstr ""
+
+#: ../calcStrings.php:497
+msgid "Standard Deviation"
+msgstr ""
+
+#: ../calcStrings.php:500
+msgid "Variance Calculator"
+msgstr ""
+
+#: ../calcStrings.php:501
+msgid "Numbers to calculator variance of (comma separated)"
+msgstr ""
+
+#: ../calcStrings.php:502
+msgid "Variance"
+msgstr ""
+
+#: ../calcStrings.php:505
+msgid "Factorial Calculator"
+msgstr ""
+
+#: ../calcStrings.php:506
+msgid "Number to find factorial of"
+msgstr ""
+
+#: ../calcStrings.php:507
+msgid "Factorial"
+msgstr ""
+
+#: ../calcStrings.php:510
+msgid "Combination Calculator"
+msgstr ""
+
+#: ../calcStrings.php:511
+msgid "Number of items in a set"
+msgstr ""
+
+#: ../calcStrings.php:512
+msgid "Number of items to pick from the set"
+msgstr ""
+
+#: ../calcStrings.php:513
+msgid "Combination"
+msgstr ""
+
+#: ../calcStrings.php:516
+msgid "Permutation Calculator"
+msgstr ""
+
+#: ../calcStrings.php:517
+msgid "Number of Permutations"
+msgstr ""
+
+#: ../calcStrings.php:520
+msgid "Compound Interest Calculator"
+msgstr ""
+
+#: ../calcStrings.php:521
+msgid "Amount of Money"
+msgstr ""
+
+#: ../calcStrings.php:522
+msgid "Number of Years to Compound"
+msgstr ""
+
+#: ../calcStrings.php:525
+msgid "Simple Interest Calculator"
+msgstr ""
+
+#: ../calcStrings.php:526
+msgid "Yearly Interest"
+msgstr ""
+
+#: ../calcStrings.php:529
+msgid "Ovulation Calculator"
+msgstr ""
+
+#: ../calcStrings.php:530
+msgid "First Day of Last Period"
+msgstr ""
+
+#: ../calcStrings.php:531
+msgid "Normal Menstrual Cycle Length"
+msgstr ""
+
+#: ../calcStrings.php:532
+msgid "Likely Ovulation Date"
+msgstr ""
+
+#: ../calcStrings.php:533
+msgid ". Already pregnant?  Try our <a href=\\'http://www.calculatorpro.com/due-date-calculator\\'>Due Date Calculator</a>"
+msgstr ""
+
+#: ../calcStrings.php:536
+msgid "Binary Calculator"
+msgstr ""
+
+#: ../calcStrings.php:537
+msgid "Binary Number"
+msgstr ""
+
+#: ../calcStrings.php:538
+msgid "Decimal Number"
+msgstr ""
+
+#: ../calcStrings.php:541
+msgid "Binary To Decimal Calculator"
+msgstr ""
+
+#: ../calcStrings.php:542
+msgid "Decimal"
+msgstr ""
+
+#: ../calcStrings.php:545
+msgid "Decimal to Binary Calculator"
+msgstr ""
+
+#: ../calcStrings.php:548
+msgid "Decimal to Hex Calculator"
+msgstr ""
+
+#: ../calcStrings.php:549
+msgid "Hex Number"
+msgstr ""
+
+#: ../calcStrings.php:552
+msgid "Hex to Decimal Calculator"
+msgstr ""
+
+#: ../calcStrings.php:555
+msgid "Hex Calculator"
+msgstr ""
+
+#: ../calcStrings.php:558
+msgid "Binary Hex Calculator"
+msgstr ""
+
+#: ../calcStrings.php:561
+msgid "Body Surface Area Calculator"
+msgstr ""
+
+#: ../calcStrings.php:562
+msgid "Weight"
+msgstr ""
+
+#: ../calcStrings.php:563
+msgid "Weight Unit"
+msgstr ""
+
+#: ../calcStrings.php:564
+msgid "Height Unit"
+msgstr ""
+
+#: ../calcStrings.php:565
+msgid "Body Surface Area"
+msgstr ""
+
+#: ../calcStrings.php:566
+msgid "meters squared"
+msgstr ""
+
+#: ../calcStrings.php:569
+msgid "Hourly Wage Calculator"
+msgstr ""
+
+#: ../calcStrings.php:570
+msgid "Annual Salary"
+msgstr ""
+
+#: ../calcStrings.php:571
+msgid "Average Hours Per Week"
+msgstr ""
+
+#: ../calcStrings.php:572
+msgid "Hourly Wage"
+msgstr ""
+
+#: ../calcStrings.php:575
+msgid "Hourly to Salary Calculator"
+msgstr ""
+
+#: ../calcStrings.php:576
+msgid "Avg Weekly Hours Worked"
+msgstr ""
+
+#: ../calcStrings.php:579
+msgid "Fahrenheit to Celsius Calculator"
+msgstr ""
+
+#: ../calcStrings.php:580
+msgid "Degrees in Fahrenheit"
+msgstr ""
+
+#: ../calcStrings.php:581
+msgid "Degrees in Celsius"
+msgstr ""
+
+#: ../calcStrings.php:584
+msgid "Celsius to Fahrenheit Calculator"
+msgstr ""
+
+#: ../calcStrings.php:587
+msgid "Temperature Conversion Calculator"
+msgstr ""
+
+#: ../calcStrings.php:588
+msgid "Temperature In Celsius"
+msgstr ""
+
+#: ../calcStrings.php:589
+msgid "Temperature in Fahrenheit"
+msgstr ""
+
+#: ../calcStrings.php:590
+msgid "Temperature in Kelvins"
+msgstr ""
+
+#: ../calcStrings.php:593
+msgid "Life Insurance Needs Calculator"
+msgstr ""
+
+#: ../calcStrings.php:594
+msgid "Desired Annual Income"
+msgstr ""
+
+#: ../calcStrings.php:595
+msgid "Number of years income is needed"
+msgstr ""
+
+#: ../calcStrings.php:596
+msgid "Assumed rate of return (%)"
+msgstr ""
+
+#: ../calcStrings.php:597
+msgid "Amount of Life Insurance Needed"
+msgstr ""
+
+#: ../calcStrings.php:600
+msgid "Immediate Annuity Calculator"
+msgstr ""
+
+#: ../calcStrings.php:601
+msgid "Lump Sum to Invest"
+msgstr ""
+
+#: ../calcStrings.php:602
+msgid "Life Expectancy (in yrs)"
+msgstr ""
+
+#: ../calcStrings.php:603
+msgid "Annual Rate of Return (%)"
+msgstr ""
+
+#: ../calcStrings.php:604
+msgid "Payment Frequency"
+msgstr ""
+
+#: ../calcStrings.php:605
+msgid "Monthly"
+msgstr ""
+
+#: ../calcStrings.php:606
+msgid "Quarterly"
+msgstr ""
+
+#: ../calcStrings.php:607
+msgid "Annually"
+msgstr ""
+
+#: ../calcStrings.php:608
+msgid "Your annuity payment will be"
+msgstr ""
+
+#: ../calcStrings.php:611
+msgid "Reverse Mortgage Calculator"
+msgstr ""
+
+#: ../calcStrings.php:612
+msgid "Lump Sum Advance"
+msgstr ""
+
+#: ../calcStrings.php:613
+msgid "Years to receive payments"
+msgstr ""
+
+#: ../calcStrings.php:614
+msgid "Monthly Payment Received"
+msgstr ""
+
+#: ../calcStrings.php:615
+msgid "Your mortgage balance will be"
+msgstr ""
+
+#: ../calcStrings.php:618
+msgid "Home Equity Loan Calculator"
+msgstr ""
+
+#: ../calcStrings.php:619
+msgid "Home Value"
+msgstr ""
+
+#: ../calcStrings.php:620
+msgid "Mortgage Balance"
+msgstr ""
+
+#: ../calcStrings.php:621
+msgid "Loan To Value for home equity (%)"
+msgstr ""
+
+#: ../calcStrings.php:624
+msgid "Feet per Second to Miles Per Hour Calculator"
+msgstr ""
+
+#: ../calcStrings.php:625
+msgid "Feet Per Second"
+msgstr ""
+
+#: ../calcStrings.php:626
+msgid "Miles Per Hour"
+msgstr ""
+
+#: ../calcStrings.php:629
+msgid "Miles Per Hour to Feet Per Second Calculator"
+msgstr ""
+
+#: ../calcStrings.php:632
+msgid "Gallons to Liters Calculator"
+msgstr ""
+
+#: ../calcStrings.php:633
+msgid "Gallons"
+msgstr ""
+
+#: ../calcStrings.php:634
+msgid "Liters"
+msgstr ""
+
+#: ../calcStrings.php:637
+msgid "Gallons to Quarts Calculator"
+msgstr ""
+
+#: ../calcStrings.php:638
+msgid "Quarts"
+msgstr ""
+
+#: ../calcStrings.php:641
+msgid "Grams to Pounds Calculator"
+msgstr ""
+
+#: ../calcStrings.php:642
+msgid "Grams"
+msgstr ""
+
+#: ../calcStrings.php:645
+msgid "Inches to Feet Calculator"
+msgstr ""
+
+#: ../calcStrings.php:648
+msgid "Feet to Inches Calculator"
+msgstr ""
+
+#: ../calcStrings.php:651
+msgid "Liters to Gallons Calculator"
+msgstr ""
+
+#: ../calcStrings.php:654
+msgid "Meters To Yards Calculator"
+msgstr ""
+
+#: ../calcStrings.php:655
+msgid "Yards"
+msgstr ""
+
+#: ../calcStrings.php:658
+msgid "Pounds to Ounces Calculator"
+msgstr ""
+
+#: ../calcStrings.php:659
+msgid "Ounces"
+msgstr ""
+
+#: ../calcStrings.php:662
+msgid "Currency Calculator"
+msgstr ""
+
+#: ../calcStrings.php:663
+msgid "Currency Amount"
+msgstr ""
+
+#: ../calcStrings.php:664
+msgid "Currency Code To Convert From"
+msgstr ""
+
+#: ../calcStrings.php:665
+msgid "Currency Code To Convert To"
+msgstr ""
+
+#: ../calcStrings.php:668
+msgid "Exchange Rate Calculator"
+msgstr ""
+
+#: ../calcStrings.php:669
+msgid "Currency Amount to Exchange"
+msgstr ""
+
+#: ../calcStrings.php:670
+msgid "Currency Code To Exchange"
+msgstr ""
+
+#: ../calcStrings.php:671
+msgid "Currency Code To Exchange To"
+msgstr ""
+
+#: ../calcStrings.php:674
+msgid "GPA Calculator"
+msgstr ""
+
+#: ../calcStrings.php:675
+msgid "Class 1 Grade"
+msgstr ""
+
+#: ../calcStrings.php:676
+msgid "A"
+msgstr ""
+
+#: ../calcStrings.php:677
+msgid "B"
+msgstr ""
+
+#: ../calcStrings.php:678
+msgid "C"
+msgstr ""
+
+#: ../calcStrings.php:679
+msgid "D"
+msgstr ""
+
+#: ../calcStrings.php:680
+msgid "F"
+msgstr ""
+
+#: ../calcStrings.php:681
+msgid "Class 1 Credits"
+msgstr ""
+
+#: ../calcStrings.php:682
+msgid "Class 2 Grade"
+msgstr ""
+
+#: ../calcStrings.php:683
+msgid "Class 2 Credits"
+msgstr ""
+
+#: ../calcStrings.php:684
+msgid "Class 3 Grade"
+msgstr ""
+
+#: ../calcStrings.php:685
+msgid "Class 3 Credits"
+msgstr ""
+
+#: ../calcStrings.php:686
+msgid "Class 4 Grade"
+msgstr ""
+
+#: ../calcStrings.php:687
+msgid "Class 4 Credits"
+msgstr ""
+
+#: ../calcStrings.php:688
+msgid "Class 5 Grade"
+msgstr ""
+
+#: ../calcStrings.php:689
+msgid "Class 5 Credits"
+msgstr ""
+
+#: ../calcStrings.php:690
+msgid "Class 6 Grade"
+msgstr ""
+
+#: ../calcStrings.php:691
+msgid "Class 6 Credits"
+msgstr ""
+
+#: ../calcStrings.php:692
+msgid "Class 7 Grade"
+msgstr ""
+
+#: ../calcStrings.php:693
+msgid "Class 7 Credits"
+msgstr ""
+
+#: ../calcStrings.php:694
+msgid "Class 8 Grade"
+msgstr ""
+
+#: ../calcStrings.php:695
+msgid "Class 8 Credits"
+msgstr ""
+
+#: ../calcStrings.php:696
+msgid "GPA"
+msgstr ""
+
+#: ../calcStrings.php:699
+msgid "Square Footage Calculator"
+msgstr ""
+
+#: ../calcStrings.php:700
+msgid "Length of room"
+msgstr ""
+
+#: ../calcStrings.php:701
+msgid "Width of room"
+msgstr ""
+
+#: ../calcStrings.php:702
+msgid "Total square footage"
+msgstr ""
+
+#: ../calcStrings.php:705
+msgid "VAT Calculator"
+msgstr ""
+
+#: ../calcStrings.php:706
+msgid "Purchase Price (without VAT)"
+msgstr ""
+
+#: ../calcStrings.php:707
+msgid "VAT Percentage"
+msgstr ""
+
+#: ../calcStrings.php:708
+msgid "Total Price"
+msgstr ""
+
+#: ../calcStrings.php:711
+msgid "Debt to Income Ratio Calculator"
+msgstr ""
+
+#: ../calcStrings.php:712
+msgid "Debt (monthly recurring)"
+msgstr ""
+
+#: ../calcStrings.php:713
+msgid "Income (monthly)"
+msgstr ""
+
+#: ../calcStrings.php:714
+msgid "Debt to Income"
+msgstr ""
+
+#: ../calcStrings.php:717
+msgid "Coverage Ratio Calculator"
+msgstr ""
+
+#: ../calcStrings.php:718
+msgid "Net Operating Income"
+msgstr ""
+
+#: ../calcStrings.php:719
+msgid "Total Debt Service"
+msgstr ""
+
+#: ../calcStrings.php:720
+msgid "Coverage Ratio"
+msgstr ""
+
+#: ../calcStrings.php:723
+msgid "Inflation Calculator"
+msgstr ""
+
+#: ../calcStrings.php:724
+msgid "Amount Today ($)"
+msgstr ""
+
+#: ../calcStrings.php:725
+msgid "Inflation Rate"
+msgstr ""
+
+#: ../calcStrings.php:726
+msgid "Number of Years"
+msgstr ""
+
+#: ../calcStrings.php:727
+msgid "Amount In the Future With Same Buying Power"
+msgstr ""
+
+#: ../calcStrings.php:730
+msgid "WHtR Calculator"
+msgstr ""
+
+#: ../calcStrings.php:731
+msgid "Waist Size (inches)"
+msgstr ""
+
+#: ../calcStrings.php:732
+msgid "WHtR"
+msgstr ""
+
+#: ../calcStrings.php:735
+msgid "Cigarette Savings Calculator"
+msgstr ""
+
+#: ../calcStrings.php:736
+msgid "Number of packs smoked per day"
+msgstr ""
+
+#: ../calcStrings.php:737
+msgid "Cost per pack"
+msgstr ""
+
+#: ../calcStrings.php:738
+msgid "Cost per month"
+msgstr ""
+
+#: ../calcStrings.php:741
+msgid "Target Heart Rate Calculator"
+msgstr ""
+
+#: ../calcStrings.php:742
+msgid "Target Heart Rate"
+msgstr ""
+
+#: ../calcStrings.php:745
+msgid "Prime Number Calculator"
+msgstr ""
+
+#: ../calcStrings.php:746
+msgid "Number to check"
+msgstr ""
+
+#: ../calcStrings.php:749
+msgid "Random Number Calculator"
+msgstr ""
+
+#: ../calcStrings.php:750
+msgid "Minimum Number"
+msgstr ""
+
+#: ../calcStrings.php:751
+msgid "Maximum Number"
+msgstr ""
+
+#: ../calcStrings.php:752
+msgid "Random Number"
+msgstr ""
+
+#: ../calcStrings.php:755
+msgid "Natural Log Calculator"
+msgstr ""
+
+#: ../calcStrings.php:756
+msgid "Number to calculate log of"
+msgstr ""
+
+#: ../calcStrings.php:759
+msgid "Log Calculator"
+msgstr ""
+
+#: ../calcStrings.php:760
+msgid "Number to find log base 10 of"
+msgstr ""
+
+#: ../calcStrings.php:761
+msgid "Log"
+msgstr ""
+
+#: ../calcStrings.php:764
+msgid "Bond Valuation Calculator"
+msgstr ""
+
+#: ../calcStrings.php:765
+msgid "Bond Face Value"
+msgstr ""
+
+#: ../calcStrings.php:766
+msgid "Months until maturity"
+msgstr ""
+
+#: ../calcStrings.php:767
+msgid "Coupon Rate (%)"
+msgstr ""
+
+#: ../calcStrings.php:768
+msgid "Current Market Rate (discount rate) (%)"
+msgstr ""
+
+#: ../calcStrings.php:769
+msgid "Market Value of Bond"
+msgstr ""
+
+#: ../calcStrings.php:772
+msgid "Current Yield Calculator"
+msgstr ""
+
+#: ../calcStrings.php:773
+msgid "Market Price"
+msgstr ""
+
+#: ../calcStrings.php:774
+msgid "Current Yield"
+msgstr ""
+
+#: ../calcStrings.php:777
+msgid "Modulo Calculator"
+msgstr ""
+
+#: ../calcStrings.php:778
+msgid "Number 1"
+msgstr ""
+
+#: ../calcStrings.php:779
+msgid "Number 2"
+msgstr ""
+
+#: ../calcStrings.php:782
+msgid "Radian to Degree Calculator"
+msgstr ""
+
+#: ../calcStrings.php:783
+msgid "Radians"
+msgstr ""
+
+#: ../calcStrings.php:784
+msgid "degrees"
+msgstr ""
+
+#: ../calcStrings.php:787
+msgid "Degree to Radian Calculator"
+msgstr ""
+
+#: ../calcStrings.php:788
+msgid "Degrees"
+msgstr ""
+
+#: ../calcStrings.php:791
+msgid "Hypotenuse Calculator"
+msgstr ""
+
+#: ../calcStrings.php:792
+msgid "Length of side 1"
+msgstr ""
+
+#: ../calcStrings.php:793
+msgid "Length of side 2"
+msgstr ""
+
+#: ../calcStrings.php:794
+msgid "Length of hypotenuse"
+msgstr ""
+
+#: ../calcStrings.php:797
+msgid "Tangent Calculator"
+msgstr ""
+
+#: ../calcStrings.php:798
+msgid "Angle"
+msgstr ""
+
+#: ../calcStrings.php:801
+msgid "Resistor Calculator"
+msgstr ""
+
+#: ../calcStrings.php:802
+msgid "Stripe 1"
+msgstr ""
+
+#: ../calcStrings.php:803
+msgid "Black"
+msgstr ""
+
+#: ../calcStrings.php:804
+msgid "Brown"
+msgstr ""
+
+#: ../calcStrings.php:805
+msgid "Red"
+msgstr ""
+
+#: ../calcStrings.php:806
+msgid "Orange"
+msgstr ""
+
+#: ../calcStrings.php:807
+msgid "Yellow"
+msgstr ""
+
+#: ../calcStrings.php:808
+msgid "Green"
+msgstr ""
+
+#: ../calcStrings.php:809
+msgid "Blue"
+msgstr ""
+
+#: ../calcStrings.php:810
+msgid "Violet"
+msgstr ""
+
+#: ../calcStrings.php:811
+msgid "Gray"
+msgstr ""
+
+#: ../calcStrings.php:812
+msgid "White"
+msgstr ""
+
+#: ../calcStrings.php:813
+msgid "Stripe 2"
+msgstr ""
+
+#: ../calcStrings.php:814
+msgid "Stripe 3 (Multiplier)"
+msgstr ""
+
+#: ../calcStrings.php:815
+msgid "Ohms"
+msgstr ""
+
+#: ../calcStrings.php:818
+msgid "Hex Color Calculator"
+msgstr ""
+
+#: ../calcStrings.php:819
+msgid "Hex Color Code (without the # and use caps)"
+msgstr ""
+
+#: ../calcStrings.php:822
+msgid "Travel Time Calculator"
+msgstr ""
+
+#: ../calcStrings.php:823
+msgid "Distance (in miles)"
+msgstr ""
+
+#: ../calcStrings.php:824
+msgid "Average Speed (MPH)"
+msgstr ""
+
+#: ../calcStrings.php:825
+msgid "Time Until Arrival"
+msgstr ""
+
+#: ../calcStrings.php:828
+msgid "Travel Distance Calculator"
+msgstr ""
+
+#: ../calcStrings.php:829
+msgid "Travel Time (in minutes)"
+msgstr ""
+
+#: ../calcStrings.php:830
+msgid "Travel Distance"
+msgstr ""
+
+#: ../calcStrings.php:833
+msgid "Pythagorean Theorem Calculator"
+msgstr ""
+
+#: ../calcStrings.php:834
+msgid "Side A Length"
+msgstr ""
+
+#: ../calcStrings.php:835
+msgid "Side B Length"
+msgstr ""
+
+#: ../calcStrings.php:836
+msgid "Side C Length"
+msgstr ""
+
+#: ../calcStrings.php:839
+msgid "Percent Calculator"
+msgstr ""
+
+#: ../calcStrings.php:840
+#, php-format
+msgid "Number to find % of"
+msgstr ""
+
+#: ../calcStrings.php:841
+msgid "%"
+msgstr ""
+
+#: ../calcStrings.php:844
+msgid "Concrete Calculator"
+msgstr ""
+
+#: ../calcStrings.php:845
+msgid "Width (ft)"
+msgstr ""
+
+#: ../calcStrings.php:846
+msgid "Length (ft)"
+msgstr ""
+
+#: ../calcStrings.php:847
+msgid "Thickness (inches)"
+msgstr ""
+
+#: ../calcStrings.php:848
+msgid "yards of concrete"
+msgstr ""
+
+#: ../calcStrings.php:851
+msgid "Premix Concrete Calculator"
+msgstr ""
+
+#: ../calcStrings.php:852
+msgid "Height (ft)"
+msgstr ""
+
+#: ../calcStrings.php:853
+msgid "Thickness (in)"
+msgstr ""
+
+#: ../calcStrings.php:856
+msgid "Concrete Footing Calculator"
+msgstr ""
+
+#: ../calcStrings.php:857
+msgid "Depth in inches"
+msgstr ""
+
+#: ../calcStrings.php:858
+msgid "Width in inches (or diameter if round)"
+msgstr ""
+
+#: ../calcStrings.php:859
+msgid "Length in inches (leave blank if round)"
+msgstr ""
+
+#: ../calcStrings.php:860
+msgid "Cubic Yards Needed"
+msgstr ""
+
+#: ../calcStrings.php:863
+msgid "Concrete Column Calculator"
+msgstr ""
+
+#: ../calcStrings.php:864
+msgid "Height of Column (in inches)"
+msgstr ""
+
+#: ../calcStrings.php:865
+msgid "Diameter of Column (in inches)"
+msgstr ""
+
+#: ../calcStrings.php:866
+msgid "yards needed."
+msgstr ""
+
+#: ../calcStrings.php:869
+msgid "Wage Calculator"
+msgstr ""
+
+#: ../calcStrings.php:870
+msgid "I make"
+msgstr ""
+
+#: ../calcStrings.php:871
+msgid "each"
+msgstr ""
+
+#: ../calcStrings.php:872
+msgid "year"
+msgstr ""
+
+#: ../calcStrings.php:873
+msgid "hour"
+msgstr ""
+
+#: ../calcStrings.php:874
+msgid "month"
+msgstr ""
+
+#: ../calcStrings.php:875
+msgid "Your Daily Wage is"
+msgstr ""
+
+#: ../calcStrings.php:878
+msgid "Long Term Care Calculator"
+msgstr ""
+
+#: ../calcStrings.php:879
+msgid "Daily Cost of Long Term Care"
+msgstr ""
+
+#: ../calcStrings.php:880
+msgid "Years Long Term Care Needed"
+msgstr ""
+
+#: ../calcStrings.php:881
+msgid "Yearly Increase in Cost of Long Term Care (%)"
+msgstr ""
+
+#: ../calcStrings.php:882
+msgid "Current Amount Saved for Long Term Care"
+msgstr ""
+
+#: ../calcStrings.php:885
+msgid "Health Insurance Cost Calculator"
+msgstr ""
+
+#: ../calcStrings.php:886
+msgid "Number of Annual Office Visits"
+msgstr ""
+
+#: ../calcStrings.php:887
+msgid "Annual Cost of In Network Care"
+msgstr ""
+
+#: ../calcStrings.php:888
+msgid "Annual Cost of Out of Network Care"
+msgstr ""
+
+#: ../calcStrings.php:889
+msgid "Insurance Plan Monthly Premium"
+msgstr ""
+
+#: ../calcStrings.php:890
+msgid "Insurance Plan Copayment"
+msgstr ""
+
+#: ../calcStrings.php:891
+msgid "Insurance Plan Deductible"
+msgstr ""
+
+#: ../calcStrings.php:892
+msgid "Out of Network % Paid By Customer"
+msgstr ""
+
+#: ../calcStrings.php:893
+msgid "Out of Network Deductible"
+msgstr ""
+
+#: ../calcStrings.php:894
+msgid "Maximum Out of Pocket Cost"
+msgstr ""
+
+#: ../calcStrings.php:897
+msgid "Disability Insurance Calculator"
+msgstr ""
+
+#: ../calcStrings.php:898
+msgid "Annual Income"
+msgstr ""
+
+#: ../calcStrings.php:899
+msgid "Tax Bracket"
+msgstr ""
+
+#: ../calcStrings.php:900
+msgid "Current Disability Insurance Percentage"
+msgstr ""
+
+#: ../calcStrings.php:901
+msgid "Max Monthly Benefit for Current Disability Insurance"
+msgstr ""
+
+#: ../calcStrings.php:902
+msgid "Social Security Disability Monthly Benefit"
+msgstr ""
+
+#: ../calcStrings.php:903
+msgid "Other Monthly Income Sources"
+msgstr ""
+
+#: ../calcStrings.php:904
+msgid "Monthly Expenses"
+msgstr ""
+
+#: ../calcStrings.php:907
+msgid "HSA Savings Calculator"
+msgstr ""
+
+#: ../calcStrings.php:908
+msgid "Coverage Type"
+msgstr ""
+
+#: ../calcStrings.php:909
+msgid "Single"
+msgstr ""
+
+#: ../calcStrings.php:910
+msgid "Family"
+msgstr ""
+
+#: ../calcStrings.php:911
+msgid "Deductible Amount"
+msgstr ""
+
+#: ../calcStrings.php:912
+msgid "Current HSA balance"
+msgstr ""
+
+#: ../calcStrings.php:913
+msgid "Years To Retirement"
+msgstr ""
+
+#: ../calcStrings.php:914
+msgid "Annual Healthcare Costs"
+msgstr ""
+
+#: ../calcStrings.php:915
+msgid "Savings Goal"
+msgstr ""
+
+#: ../calcStrings.php:918
+msgid "Human Life Value Calculator"
+msgstr ""
+
+#: ../calcStrings.php:919
+msgid "Years Until Your Retirement"
+msgstr ""
+
+#: ../calcStrings.php:920
+msgid "Your Annual Salary"
+msgstr ""
+
+#: ../calcStrings.php:921
+msgid "Your Return on Investments (%)"
+msgstr ""
+
+#: ../calcStrings.php:922
+#, php-format
+msgid "Personal consumption (% of after tax earnings)"
+msgstr ""
+
+#: ../calcStrings.php:923
+msgid "Tax Bracket (% - State + Federal)"
+msgstr ""
+
+#: ../calcStrings.php:924
+msgid "Expected Inflation Rate (%)"
+msgstr ""
+
+#: ../calcStrings.php:927
+msgid "Whole Life Insurance Calculator"
+msgstr ""
+
+#: ../calcStrings.php:928
+msgid "Policy Payout at Death"
+msgstr ""
+
+#: ../calcStrings.php:929
+msgid "Average Dividend (yearly)"
+msgstr ""
+
+#: ../calcStrings.php:930
+msgid "Years you have had current policy"
+msgstr ""
+
+#: ../calcStrings.php:931
+msgid "Expected years until death"
+msgstr ""
+
+#: ../calcStrings.php:932
+msgid "Tax Rate (state + federal)"
+msgstr ""
+
+#: ../calcStrings.php:933
+msgid "Years until you can claim cash value"
+msgstr ""
+
+#: ../calcStrings.php:934
+msgid "Cash value upon claim"
+msgstr ""
+
+#: ../calcStrings.php:935
+msgid "Current cash value of policy"
+msgstr ""
+
+#: ../calcStrings.php:936
+msgid "Policy Premium"
+msgstr ""
+
+#: ../calcStrings.php:937
+msgid "Premiums paid per year"
+msgstr ""
+
+#: ../calcStrings.php:940
+msgid "Online Financial Calculator"
+msgstr ""
+
+#: ../calcStrings.php:941
+msgid "Discount Rate"
+msgstr ""
+
+#: ../calcStrings.php:942
+msgid "Payment"
+msgstr ""
+
+#: ../calcStrings.php:943
+msgid "Beginning?"
+msgstr ""
+
+#: ../calcStrings.php:946
+msgid "How Much Rent Can I Afford Calculator"
+msgstr ""
+
+#: ../calcStrings.php:947
+msgid "You can afford"
+msgstr ""
+
+#: ../calcStrings.php:950
+msgid "Commission Calculator"
+msgstr ""
+
+#: ../calcStrings.php:951
+msgid "Sale Amount"
+msgstr ""
+
+#: ../calcStrings.php:952
+msgid "Comission Percentage"
+msgstr ""
+
+#: ../calcStrings.php:953
+msgid "Your commission would be"
+msgstr ""
+
+#: ../calcStrings.php:956
+msgid "Ideal Weight Calculator"
+msgstr ""
+
+#: ../calcStrings.php:957
+msgid "Height (in inches)"
+msgstr ""
+
+#: ../calcStrings.php:958
+msgid "Your ideal body weight is"
+msgstr ""
+
+#: ../calcStrings.php:959
+msgid "pounds."
+msgstr ""
+
+#: ../calcStrings.php:962
+msgid "BMI Calculator"
+msgstr ""
+
+#: ../calcStrings.php:963
+msgid "Height (in inches or cm)"
+msgstr ""
+
+#: ../calcStrings.php:964
+msgid "Weight (in pounds or kg)"
+msgstr ""
+
+#: ../calcStrings.php:965
+msgid "Your BMI is"
+msgstr ""
+
+#: ../calcStrings.php:968
+msgid "Carbohydrate Calculator"
+msgstr ""
+
+#: ../calcStrings.php:969
+msgid "Weight (in pounds)"
+msgstr ""
+
+#: ../calcStrings.php:970
+msgid "Exercise 2x per da"
+msgstr ""
+
+#: ../calcStrings.php:971
+msgid "You should consume about"
+msgstr ""
+
+#: ../calcStrings.php:972
+msgid "grams of carbohydrates daily"
+msgstr ""
+
+#: ../calcStrings.php:975
+msgid "Fat Calculator"
+msgstr ""
+
+#: ../calcStrings.php:976
+msgid "grams of fat daily"
+msgstr ""
+
+#: ../calcStrings.php:979
+msgid "Protein Calculator"
+msgstr ""
+
+#: ../calcStrings.php:980
+msgid "grams of protein daily"
+msgstr ""
+
+#: ../calcStrings.php:983
+msgid "Smoking Cost Calculator"
+msgstr ""
+
+#: ../calcStrings.php:984
+msgid "Number of packs smoked per day (you can use decimals)"
+msgstr ""
+
+#: ../calcStrings.php:987
+msgid "Body Fat Calculator"
+msgstr ""
+
+#: ../calcStrings.php:988
+msgid "Waist Size (in inches)"
+msgstr ""
+
+#: ../calcStrings.php:989
+msgid "Wrist Size (female only)"
+msgstr ""
+
+#: ../calcStrings.php:990
+msgid "Hips Size (female only)"
+msgstr ""
+
+#: ../calcStrings.php:991
+msgid "Forearm Size (female only)"
+msgstr ""
+
+#: ../calcStrings.php:992
+msgid "Your body fat percentage is"
+msgstr ""
+
+#: ../calcStrings.php:995
+msgid "Coinsurance Calculator"
+msgstr ""
+
+#: ../calcStrings.php:996
+msgid "Replacement Value of Home"
+msgstr ""
+
+#: ../calcStrings.php:997
+msgid "Depreciated Value of House"
+msgstr ""
+
+#: ../calcStrings.php:998
+msgid "Insurance Coverage Amount"
+msgstr ""
+
+#: ../calcStrings.php:999
+msgid "Coinsurance Amount (%)"
+msgstr ""
+
+#: ../calcStrings.php:1000
+msgid "Amount of Loss Incurred"
+msgstr ""
+
+#: ../calcStrings.php:1001
+msgid "You will receive"
+msgstr ""
+
+#: ../calcStrings.php:1004
+msgid "Real Rate of Return Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1005
+msgid "Investment Rate of Return (%)"
+msgstr ""
+
+#: ../calcStrings.php:1006
+msgid "Inflation Rate (%)"
+msgstr ""
+
+#: ../calcStrings.php:1007
+msgid "The real rate of return is"
+msgstr ""
+
+#: ../calcStrings.php:1010
+msgid "Rule of 72 Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1011
+msgid "Investment Amount"
+msgstr ""
+
+#: ../calcStrings.php:1014
+msgid "Holding Period Return Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1015
+msgid "Beginning Value of Investment"
+msgstr ""
+
+#: ../calcStrings.php:1016
+msgid "Ending Value of Investment"
+msgstr ""
+
+#: ../calcStrings.php:1017
+msgid "Income Received From Investment"
+msgstr ""
+
+#: ../calcStrings.php:1018
+msgid "Holding Period Return"
+msgstr ""
+
+#: ../calcStrings.php:1021
+msgid "Arithmetic Mean Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1022
+msgid "Set of Numbers (comma separated)"
+msgstr ""
+
+#: ../calcStrings.php:1023
+msgid "Arithmetic Mean"
+msgstr ""
+
+#: ../calcStrings.php:1026
+msgid "Investment Return Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1027
+msgid "The overall return on your investment has been"
+msgstr ""
+
+#: ../calcStrings.php:1030
+msgid "Geometric Mean Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1031
+msgid "Yearly Returns (comma separated)"
+msgstr ""
+
+#: ../calcStrings.php:1032
+msgid "Initial Investment Amount"
+msgstr ""
+
+#: ../calcStrings.php:1033
+msgid "Geometric Mean Return"
+msgstr ""
+
+#: ../calcStrings.php:1036
+msgid "Taxable Equivalent Yield Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1037
+msgid "Bond Yield (%)"
+msgstr ""
+
+#: ../calcStrings.php:1038
+msgid "Marginal Tax Rate (%)"
+msgstr ""
+
+#: ../calcStrings.php:1039
+msgid "Taxable Equivalent Yield"
+msgstr ""
+
+#: ../calcStrings.php:1042
+msgid "Treasury Bond Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1043
+msgid "Bond Par Value"
+msgstr ""
+
+#: ../calcStrings.php:1044
+msgid "Bond Price"
+msgstr ""
+
+#: ../calcStrings.php:1045
+msgid "Days to Maturity"
+msgstr ""
+
+#: ../calcStrings.php:1048
+msgid "Dividend Yield Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1049
+msgid "Annual Dividend per Share ($)"
+msgstr ""
+
+#: ../calcStrings.php:1050
+msgid "Market Price of the Stock ($)"
+msgstr ""
+
+#: ../calcStrings.php:1051
+msgid "Dividend Yield"
+msgstr ""
+
+#: ../calcStrings.php:1054
+msgid "Margin Call Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1055
+msgid "Share Price"
+msgstr ""
+
+#: ../calcStrings.php:1056
+msgid "Initial Margin (%)"
+msgstr ""
+
+#: ../calcStrings.php:1057
+msgid "Maintenance Margin (%)"
+msgstr ""
+
+#: ../calcStrings.php:1058
+msgid "You will receive a margin call at"
+msgstr ""
+
+#: ../calcStrings.php:1061
+msgid "Preferred Stock Valuation Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1062
+msgid "Dividend ($)"
+msgstr ""
+
+#: ../calcStrings.php:1063
+msgid "Your Required Rate of Return (%)"
+msgstr ""
+
+#: ../calcStrings.php:1064
+msgid "With your discount rate purchase the stock if it costs less than"
+msgstr ""
+
+#: ../calcStrings.php:1067
+msgid "Dividend Discount Model Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1068
+msgid "Current Dividend ($)"
+msgstr ""
+
+#: ../calcStrings.php:1069
+msgid "Dividend Growth Rate (%)"
+msgstr ""
+
+#: ../calcStrings.php:1070
+msgid "According to the dividend discount model, the stock is worth"
+msgstr ""
+
+#: ../calcStrings.php:1073
+msgid "Sharpe Ratio Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1074
+msgid "Actual Return of the Portfolio (%)"
+msgstr ""
+
+#: ../calcStrings.php:1075
+msgid "Risk-free Rate of Return (%)"
+msgstr ""
+
+#: ../calcStrings.php:1076
+msgid "Standard Deviation of the Portfolio (%)"
+msgstr ""
+
+#: ../calcStrings.php:1077
+msgid "Sharpe Ratio"
+msgstr ""
+
+#: ../calcStrings.php:1080
+msgid "Treynor Ratio Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1081
+msgid "Beta of the Portfolio (%)"
+msgstr ""
+
+#: ../calcStrings.php:1082
+msgid "Treynor Ratio"
+msgstr ""
+
+#: ../calcStrings.php:1085
+msgid "FICA Tax Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1086
+msgid "Your Salary"
+msgstr ""
+
+#: ../calcStrings.php:1087
+msgid "Self-employed?"
+msgstr ""
+
+#: ../calcStrings.php:1090
+msgid "401k Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1091
+msgid "Salary"
+msgstr ""
+
+#: ../calcStrings.php:1092
+msgid "401k Contribution (%)"
+msgstr ""
+
+#: ../calcStrings.php:1093
+msgid "Employer Match (%)"
+msgstr ""
+
+#: ../calcStrings.php:1094
+msgid "Estimated Rate of Return (%)"
+msgstr ""
+
+#: ../calcStrings.php:1095
+msgid "Years until retirement"
+msgstr ""
+
+#: ../calcStrings.php:1096
+msgid "When you retire, you will have about"
+msgstr ""
+
+#: ../calcStrings.php:1099
+msgid "CPI Calculator (Consumer Price Index Calculator)"
+msgstr ""
+
+#: ../calcStrings.php:1100
+msgid "Start Year (1913-2010)"
+msgstr ""
+
+#: ../calcStrings.php:1101
+msgid "Dollar Amount in Start Year ($)"
+msgstr ""
+
+#: ../calcStrings.php:1102
+msgid "End Year (1913-2010)"
+msgstr ""
+
+#: ../calcStrings.php:1105
+msgid "Roth IRA Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1106
+msgid "Current IRA Balance"
+msgstr ""
+
+#: ../calcStrings.php:1107
+msgid "Contributions Per Year ($)"
+msgstr ""
+
+#: ../calcStrings.php:1108
+msgid "Years Until Retirement"
+msgstr ""
+
+#: ../calcStrings.php:1109
+msgid "Expected Rate of Return (%)"
+msgstr ""
+
+#: ../calcStrings.php:1112
+msgid "Thin Brick Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1113
+msgid "Length of surface"
+msgstr ""
+
+#: ../calcStrings.php:1114
+msgid "Height of surface"
+msgstr ""
+
+#: ../calcStrings.php:1115
+msgid "Linear Height of Corners"
+msgstr ""
+
+#: ../calcStrings.php:1118
+msgid "PPI Claim Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1119
+msgid "Loan Monthly Payment"
+msgstr ""
+
+#: ../calcStrings.php:1120
+msgid "Length of Loan in Years"
+msgstr ""
+
+#: ../calcStrings.php:1123
+msgid "Bricking Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1124
+msgid "Length of surface (ft.)"
+msgstr ""
+
+#: ../calcStrings.php:1125
+msgid "Height of surface (ft.)"
+msgstr ""
+
+#: ../calcStrings.php:1126
+msgid "Linear Height of Corners (ft.)"
+msgstr ""
+
+#: ../calcStrings.php:1127
+msgid "Round Up Percentage (10% recommended)"
+msgstr ""
+
+#: ../calcStrings.php:1130
+msgid "Excavation Cost Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1131
+msgid "Width(ft)"
+msgstr ""
+
+#: ../calcStrings.php:1132
+msgid "Depth(ft)"
+msgstr ""
+
+#: ../calcStrings.php:1133
+msgid "Price per yard ($)"
+msgstr ""
+
+#: ../calcStrings.php:1134
+msgid "Excavation Cost"
+msgstr ""
+
+#: ../calcStrings.php:1137
+msgid "Marketing ROI Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1138
+msgid "How much did you earn?"
+msgstr ""
+
+#: ../calcStrings.php:1139
+msgid "How much did you spend?"
+msgstr ""
+
+#: ../calcStrings.php:1140
+msgid "Your hourly rate"
+msgstr ""
+
+#: ../calcStrings.php:1141
+msgid "Hours spent on campaign"
+msgstr ""
+
+#: ../calcStrings.php:1142
+msgid "Number of leads generated"
+msgstr ""
+
+#: ../calcStrings.php:1145
+msgid "Lifetime Customer Value Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1146
+msgid "Average Sale Per Client ($)"
+msgstr ""
+
+#: ../calcStrings.php:1147
+msgid "Avg Times Customer Buys Per Year"
+msgstr ""
+
+#: ../calcStrings.php:1148
+msgid "Avg Years Customer Purchases From You"
+msgstr ""
+
+#: ../calcStrings.php:1149
+msgid "The Lifetime Customer Value is"
+msgstr ""
+
+#: ../calcStrings.php:1152
+msgid "Compost Use Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1153
+msgid "Length of Area to Cover"
+msgstr ""
+
+#: ../calcStrings.php:1154
+msgid "Width of Area to Cover"
+msgstr ""
+
+#: ../calcStrings.php:1155
+msgid "Length/Width Unit"
+msgstr ""
+
+#: ../calcStrings.php:1156
+msgid "Depth Needed"
+msgstr ""
+
+#: ../calcStrings.php:1157
+msgid "Depth Unit"
+msgstr ""
+
+#: ../calcStrings.php:1158
+msgid "Bulk Density"
+msgstr ""
+
+#: ../calcStrings.php:1159
+msgid "Bulk Density Unit"
+msgstr ""
+
+#: ../calcStrings.php:1160
+msgid "lb/cy"
+msgstr ""
+
+#: ../calcStrings.php:1161
+msgid "lb/cf"
+msgstr ""
+
+#: ../calcStrings.php:1162
+msgid "kg/L"
+msgstr ""
+
+#: ../calcStrings.php:1165
+msgid "Loan Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1166
+msgid "Length of Loan (in months)"
+msgstr ""
+
+#: ../calcStrings.php:1167
+msgid "Monthly Interest Rate"
+msgstr ""
+
+#: ../calcStrings.php:1168
+msgid "Your payment will be"
+msgstr ""
+
+#: ../calcStrings.php:1171
+msgid "Auto Loan Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1172
+msgid "Auto Loan Amount"
+msgstr ""
+
+#: ../calcStrings.php:1173
+msgid "Length of Auto Loan in Months"
+msgstr ""
+
+#: ../calcStrings.php:1174
+msgid "Interest Rate for Auto Loan"
+msgstr ""
+
+#: ../calcStrings.php:1175
+msgid "Your monthly auto loan payment will be"
+msgstr ""
+
+#: ../calcStrings.php:1178
+msgid "Interest Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1179
+msgid "Number of Years in Loan"
+msgstr ""
+
+#: ../calcStrings.php:1182
+msgid "Amortization Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1183
+msgid "Length of Loan (in years)"
+msgstr ""
+
+#: ../calcStrings.php:1184
+msgid "Down Payment (%)"
+msgstr ""
+
+#: ../calcStrings.php:1187
+msgid "Amortization Schedule Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1190
+msgid "Payment Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1193
+msgid "Litres to Pints Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1194
+msgid "Litres"
+msgstr ""
+
+#: ../calcStrings.php:1195
+msgid "Pints"
+msgstr ""
+
+#: ../calcStrings.php:1198
+msgid "Pints to Litres Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1201
+msgid "Litres to Millilitres Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1202
+msgid "Millilitres"
+msgstr ""
+
+#: ../calcStrings.php:1205
+msgid "Millilitres to Litres Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1208
+msgid "Ounces to Pounds Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1211
+msgid "Refrigerant Capillary Tube Resizer Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1212
+msgid "Original ID"
+msgstr ""
+
+#: ../calcStrings.php:1213
+msgid "New ID"
+msgstr ""
+
+#: ../calcStrings.php:1214
+msgid "Original Length"
+msgstr ""
+
+#: ../calcStrings.php:1215
+msgid "New Length"
+msgstr ""
+
+#: ../calcStrings.php:1218
+msgid "Simple Estate Agent Fees Savings Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1219
+msgid "Selling Price (�)"
+msgstr ""
+
+#: ../calcStrings.php:1220
+msgid "Agent Commission (%)"
+msgstr ""
+
+#: ../calcStrings.php:1221
+msgid "Your commission savings (including 20% VAT) are"
+msgstr ""
+
+#: ../calcStrings.php:1224
+msgid "Imperial Gas Meter Reading Converter"
+msgstr ""
+
+#: ../calcStrings.php:1225
+msgid "Previous Meter Reading"
+msgstr ""
+
+#: ../calcStrings.php:1226
+msgid "Current Reading"
+msgstr ""
+
+#: ../calcStrings.php:1227
+msgid "Your KWH usage is"
+msgstr ""
+
+#: ../calcStrings.php:1230
+msgid "Metric Gas Meter Reading Converter"
+msgstr ""
+
+#: ../calcStrings.php:1233
+msgid "Rent Per Square Foot Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1234
+msgid "Total Rent per Month"
+msgstr ""
+
+#: ../calcStrings.php:1235
+msgid "Number of Square Feet Rented"
+msgstr ""
+
+#: ../calcStrings.php:1238
+msgid "Total Rent Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1239
+msgid "Monthly Rent per Sq Ft"
+msgstr ""
+
+#: ../calcStrings.php:1240
+msgid "Number of Feet"
+msgstr ""
+
+#: ../calcStrings.php:1243
+msgid "Square Foot to Square Yard Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1244
+msgid "Square Feet"
+msgstr ""
+
+#: ../calcStrings.php:1245
+msgid "Square Yards"
+msgstr ""
+
+#: ../calcStrings.php:1248
+msgid "Flooring Cost Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1249
+msgid "Cost per square foot"
+msgstr ""
+
+#: ../calcStrings.php:1250
+msgid "Size of area (in square feet)"
+msgstr ""
+
+#: ../calcStrings.php:1253
+msgid "Calorie to kJ Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1254
+msgid "Calories"
+msgstr ""
+
+#: ../calcStrings.php:1255
+msgid "kJ (kilojoules)"
+msgstr ""
+
+#: ../calcStrings.php:1258
+msgid "kJ to Calorie Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1261
+msgid "Material Needed Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1262
+msgid "Depth (inches)"
+msgstr ""
+
+#: ../calcStrings.php:1263
+msgid "yards of material"
+msgstr ""
+
+#: ../calcStrings.php:1266
+msgid "Advanced One Rep Max Weight Lifting Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1267
+msgid "Exercise"
+msgstr ""
+
+#: ../calcStrings.php:1268
+msgid "Bench Press"
+msgstr ""
+
+#: ../calcStrings.php:1269
+msgid "Deadlift"
+msgstr ""
+
+#: ../calcStrings.php:1270
+msgid "Squat"
+msgstr ""
+
+#: ../calcStrings.php:1273
+msgid "Material Needed Calculator (Circle)"
+msgstr ""
+
+#: ../calcStrings.php:1274
+msgid "Diameter (ft)"
+msgstr ""
+
+#: ../calcStrings.php:1277
+msgid "Material Needed Calculator (Triangle)"
+msgstr ""
+
+#: ../calcStrings.php:1278
+msgid "Side 1 (ft)"
+msgstr ""
+
+#: ../calcStrings.php:1279
+msgid "Side 2 (ft)"
+msgstr ""
+
+#: ../calcStrings.php:1280
+msgid "Side 3 (ft)"
+msgstr ""
+
+#: ../calcStrings.php:1283
+msgid "Metric Body Fat Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1284
+msgid "Weight (in kgs)"
+msgstr ""
+
+#: ../calcStrings.php:1285
+msgid "Waist Size (in cm)"
+msgstr ""
+
+#: ../calcStrings.php:1288
+msgid "Price to Earnings Ratio Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1289
+msgid "Price per share"
+msgstr ""
+
+#: ../calcStrings.php:1290
+msgid "Earnings per share"
+msgstr ""
+
+#: ../calcStrings.php:1291
+msgid "P/E Ratio"
+msgstr ""
+
+#: ../calcStrings.php:1294
+msgid "Fuel Consumption Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1295
+msgid "Miles between Fill-ups"
+msgstr ""
+
+#: ../calcStrings.php:1296
+msgid "Gallons of Gas"
+msgstr ""
+
+#: ../calcStrings.php:1297
+msgid "Cost per Gallon"
+msgstr ""
+
+#: ../calcStrings.php:1298
+msgid "Avg Miles Driven per Day"
+msgstr ""
+
+#: ../calcStrings.php:1301
+msgid "Qualified Financing Amount Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1302
+msgid "Business Type"
+msgstr ""
+
+#: ../calcStrings.php:1303
+msgid "Automotive"
+msgstr ""
+
+#: ../calcStrings.php:1304
+msgid "Bar/Nightclub"
+msgstr ""
+
+#: ../calcStrings.php:1305
+msgid "Convenience Store"
+msgstr ""
+
+#: ../calcStrings.php:1306
+msgid "Day Spa"
+msgstr ""
+
+#: ../calcStrings.php:1307
+msgid "Florist"
+msgstr ""
+
+#: ../calcStrings.php:1308
+msgid "Franchise"
+msgstr ""
+
+#: ../calcStrings.php:1309
+msgid "Gas Station"
+msgstr ""
+
+#: ../calcStrings.php:1310
+msgid "Hair/Nail Salon"
+msgstr ""
+
+#: ../calcStrings.php:1311
+msgid "Hotel/Motel"
+msgstr ""
+
+#: ../calcStrings.php:1312
+msgid "Liquor Store"
+msgstr ""
+
+#: ../calcStrings.php:1313
+msgid "Nursery/Lawncare"
+msgstr ""
+
+#: ../calcStrings.php:1314
+msgid "Pharmacy"
+msgstr ""
+
+#: ../calcStrings.php:1315
+msgid "Restaurant"
+msgstr ""
+
+#: ../calcStrings.php:1316
+msgid "Retailer"
+msgstr ""
+
+#: ../calcStrings.php:1317
+msgid "Wholesaler"
+msgstr ""
+
+#: ../calcStrings.php:1318
+msgid "Other"
+msgstr ""
+
+#: ../calcStrings.php:1319
+msgid "Years in Business"
+msgstr ""
+
+#: ../calcStrings.php:1320
+msgid "< 6 months"
+msgstr ""
+
+#: ../calcStrings.php:1321
+msgid "6-12 months"
+msgstr ""
+
+#: ../calcStrings.php:1322
+msgid "1-2 years"
+msgstr ""
+
+#: ../calcStrings.php:1323
+msgid "2-5 years"
+msgstr ""
+
+#: ../calcStrings.php:1324
+msgid "5 + years"
+msgstr ""
+
+#: ../calcStrings.php:1325
+msgid "Monthly average CC processing volume"
+msgstr ""
+
+#: ../calcStrings.php:1326
+msgid "Monthly average total sales volume"
+msgstr ""
+
+#: ../calcStrings.php:1329
+msgid "Days From Date Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1330
+msgid "Start Date"
+msgstr ""
+
+#: ../calcStrings.php:1331
+msgid "Days from Date"
+msgstr ""
+
+#: ../calcStrings.php:1334
+msgid "Weight Loss Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1335
+msgid "Current Weight"
+msgstr ""
+
+#: ../calcStrings.php:1336
+msgid "Goal Weight"
+msgstr ""
+
+#: ../calcStrings.php:1339
+msgid "Cost of Living Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1340
+msgid "Current Cost of Living ($)"
+msgstr ""
+
+#: ../calcStrings.php:1341
+msgid "Expected Annual Cost of Living Increase (%)"
+msgstr ""
+
+#: ../calcStrings.php:1342
+msgid "Your cost of living next year will be"
+msgstr ""
+
+#: ../calcStrings.php:1345
+msgid "Retirement Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1346
+msgid "Current Savings"
+msgstr ""
+
+#: ../calcStrings.php:1347
+msgid "Desired Retirement Savings"
+msgstr ""
+
+#: ../calcStrings.php:1350
+msgid "Lean Body Mass Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1351
+msgid "Body Fat (%)"
+msgstr ""
+
+#: ../calcStrings.php:1352
+msgid "Your lean body mass is"
+msgstr ""
+
+#: ../calcStrings.php:1355
+msgid "Max Heart Rate Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1356
+msgid "Your estimated maximum heart rate is"
+msgstr ""
+
+#: ../calcStrings.php:1359
+msgid "Driveway Sealer Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1360
+msgid "Driveway Width"
+msgstr ""
+
+#: ../calcStrings.php:1361
+msgid "Driveway Length"
+msgstr ""
+
+#: ../calcStrings.php:1362
+msgid "Cost per Square Foot"
+msgstr ""
+
+#: ../calcStrings.php:1363
+msgid "The total cost to seal your driveway is"
+msgstr ""
+
+#: ../calcStrings.php:1366
+msgid "Race Time Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1367
+msgid "MPH at finish"
+msgstr ""
+
+#: ../calcStrings.php:1368
+msgid "Amount won/lost by (seconds)"
+msgstr ""
+
+#: ../calcStrings.php:1371
+msgid "Mileage Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1372
+msgid "Size of gas tank (gallons)"
+msgstr ""
+
+#: ../calcStrings.php:1373
+msgid "Miles between fill-ups"
+msgstr ""
+
+#: ../calcStrings.php:1374
+msgid "Miles Per Gallon"
+msgstr ""
+
+#: ../calcStrings.php:1377
+msgid "Income Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1378
+msgid "Weekly Salary"
+msgstr ""
+
+#: ../calcStrings.php:1381
+msgid "Income Tax Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1382
+msgid "Taxable Income"
+msgstr ""
+
+#: ../calcStrings.php:1383
+msgid "Tax Rate (%)"
+msgstr ""
+
+#: ../calcStrings.php:1384
+msgid "Your taxes would be"
+msgstr ""
+
+#: ../calcStrings.php:1387
+msgid "Ideal Weight Calculator (kg)"
+msgstr ""
+
+#: ../calcStrings.php:1388
+msgid "Height (in meters)"
+msgstr ""
+
+#: ../calcStrings.php:1391
+msgid "Cellphone Buyback Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1392
+msgid "Cellphone Retail Price"
+msgstr ""
+
+#: ../calcStrings.php:1393
+msgid "Age of Cellphone"
+msgstr ""
+
+#: ../calcStrings.php:1394
+msgid "13-18 months"
+msgstr ""
+
+#: ../calcStrings.php:1395
+msgid "19-24 months"
+msgstr ""
+
+#: ../calcStrings.php:1396
+msgid "25-36 months"
+msgstr ""
+
+#: ../calcStrings.php:1399
+msgid "Yards to Metres Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1400
+msgid "Metres"
+msgstr ""
+
+#: ../calcStrings.php:1403
+msgid "Upside Down Mortgage Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1404
+msgid "Estimated Home Value"
+msgstr ""
+
+#: ../calcStrings.php:1405
+msgid "Amount Owed On Home"
+msgstr ""
+
+#: ../calcStrings.php:1406
+msgid "Estimated Rate of Appreciation"
+msgstr ""
+
+#: ../calcStrings.php:1407
+msgid "Years from now"
+msgstr ""
+
+#: ../calcStrings.php:1410
+msgid "Savings Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1411
+msgid "Planned Monthly Savings"
+msgstr ""
+
+#: ../calcStrings.php:1412
+msgid "Years to Save"
+msgstr ""
+
+#: ../calcStrings.php:1413
+msgid "Interest Rate Received"
+msgstr ""
+
+#: ../calcStrings.php:1416
+msgid "Blood Alcohol Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1417
+msgid "Fluid ounces consumed"
+msgstr ""
+
+#: ../calcStrings.php:1418
+msgid "Alcohol content of drink (%)"
+msgstr ""
+
+#: ../calcStrings.php:1419
+msgid "Hours spent drinking"
+msgstr ""
+
+#: ../calcStrings.php:1420
+msgid "Blood Alcohol Content"
+msgstr ""
+
+#: ../calcStrings.php:1423
+msgid "Body Composition Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1424
+msgid "Your body fat composition is"
+msgstr ""
+
+#: ../calcStrings.php:1427
+msgid "Daily Energy Expenditure Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1428
+msgid "Your daily energy expenditure"
+msgstr ""
+
+#: ../calcStrings.php:1429
+msgid "calories"
+msgstr ""
+
+#: ../calcStrings.php:1432
+msgid "Break Even Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1433
+msgid "Fixed Costs"
+msgstr ""
+
+#: ../calcStrings.php:1434
+msgid "Variable Cost per Unit"
+msgstr ""
+
+#: ../calcStrings.php:1435
+msgid "Selling Price per Unit"
+msgstr ""
+
+#: ../calcStrings.php:1436
+msgid "You will break even at"
+msgstr ""
+
+#: ../calcStrings.php:1437
+msgid "units"
+msgstr ""
+
+#: ../calcStrings.php:1440
+msgid "Katch-Mcardle BMR Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1441
+msgid "KG"
+msgstr ""
+
+#: ../calcStrings.php:1442
+msgid "Your BMR according to the Katch-Mcardle formula is"
+msgstr ""
+
+#: ../calcStrings.php:1445
+msgid "Profit Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1446
+msgid "Cost of Good / Service"
+msgstr ""
+
+#: ../calcStrings.php:1447
+msgid "New Sales a month"
+msgstr ""
+
+#: ../calcStrings.php:1448
+msgid "Profit Margin (%)"
+msgstr ""
+
+#: ../calcStrings.php:1451
+msgid "Company Car Tax Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1452
+msgid "Car List Price"
+msgstr ""
+
+#: ../calcStrings.php:1453
+msgid "CO2 emissions"
+msgstr ""
+
+#: ../calcStrings.php:1454
+msgid "Fuel Type"
+msgstr ""
+
+#: ../calcStrings.php:1455
+msgid "Petrol"
+msgstr ""
+
+#: ../calcStrings.php:1456
+msgid "Bi-fuel"
+msgstr ""
+
+#: ../calcStrings.php:1457
+msgid "Hybrid petrol-electric"
+msgstr ""
+
+#: ../calcStrings.php:1458
+msgid "Electric only"
+msgstr ""
+
+#: ../calcStrings.php:1459
+msgid "Bio-ethanol"
+msgstr ""
+
+#: ../calcStrings.php:1460
+msgid "Employee Tax Rate (%)"
+msgstr ""
+
+#: ../calcStrings.php:1463
+msgid "Beats and Breaths Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1464
+msgid "Birthdate"
+msgstr ""
+
+#: ../calcStrings.php:1467
+msgid "Creatine Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1468
+msgid "Age (years)"
+msgstr ""
+
+#: ../calcStrings.php:1469
+msgid "Serum Creatinine (mg/dL)"
+msgstr ""
+
+#: ../calcStrings.php:1472
+msgid "Stride Length Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1473
+msgid "Distance Traveled (feet)"
+msgstr ""
+
+#: ../calcStrings.php:1474
+msgid "Number of steps taken"
+msgstr ""
+
+#: ../calcStrings.php:1475
+msgid "Your stride is about"
+msgstr ""
+
+#: ../calcStrings.php:1476
+msgid "inches."
+msgstr ""
+
+#: ../calcStrings.php:1479
+msgid "Square Footage Cost Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1482
+msgid "Cost Per Square Foot Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1483
+msgid "Total Cost"
+msgstr ""
+
+#: ../calcStrings.php:1484
+msgid "Cost Per Square Foot"
+msgstr ""
+
+#: ../calcStrings.php:1487
+msgid "Mortgage Payment Calculator - GBP"
+msgstr ""
+
+#: ../calcStrings.php:1490
+msgid "Square Feet to Cubic Feet Calculator"
+msgstr ""
+
+#: ../calcStrings.php:1491
+msgid "Square Footage"
+msgstr ""
+

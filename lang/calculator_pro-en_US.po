@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CalculatorPro\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: John Gadbois <jgadbois@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Each calculator should have an entry for the title, each field (and drop
+#: down option if applicable) and answer label. Calculate Button
+msgid "Calculate!"
+msgstr ""
+
+#: V02 MAX CALCULATOR
+msgid "VO2 Max Calculator"
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "Age (in years)"
+msgstr ""
+
+msgid "Male"
+msgstr ""
+
+msgid "Female"
+msgstr ""
+
+msgid "Weight (in lbs)"
+msgstr ""
+
+msgid "Time to Walk 1 Mile (in seconds)"
+msgstr ""
+
+msgid "Heart Rate (at end of 1 mile)"
+msgstr ""
+
+#: Answer
+msgid "VO2 Max"
+msgstr ""
+
+#: BMI CALCULATOR
+msgid "BMI Calculator"
+msgstr ""
+
+msgid "Height (in inches or cm)"
+msgstr ""
+
+msgid "Weight (in pounds or kg)"
+msgstr ""
+
+msgid "Use Metric?"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Your BMI is"
+msgstr ""
+
